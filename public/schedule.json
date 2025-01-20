@@ -1,0 +1,480 @@
+{
+  "eventName": "Sinulog 2025",
+  "tagline": "One Beat, One Dance, One Vision",
+  "schedule": [
+    {
+      "date": "2024-12-31",
+      "events": [
+        {
+          "name": "New Year's Countdown | Sinulog Kick Off",
+          "time": "20:00",
+          "venue": "SM Seaside Cebu"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-05",
+      "events": [
+        {
+          "name": "Sinulog Open Style, Dance Crew & Tiktok Challenge",
+          "time": "16:00",
+          "venue": "GMall"
+        },
+        {
+          "name": "Sinulog Fun Run (Cebu City Government)",
+          "time": "TBA",
+          "venue": "Venue to be announced"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-08",
+      "events": [
+        {
+          "name": "Fiesta Señor Send-off Mass",
+          "time": "TBA",
+          "venue": "Venue to be announced"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-09",
+      "events": [
+        {
+          "name": "WALK WITH JESUS c/o Augustian Missionaries",
+          "time": "04:00",
+          "venue": "Venue to be announced"
+        },
+        {
+          "name": "Opening Salvo Mass",
+          "time": "05:00",
+          "venue": "Basilica del Sto. Nino"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-10",
+      "events": [
+        {
+          "name": "Sinulog 2025: Opening Declaration Ceremonial Mass",
+          "time": "14:30",
+          "venue": "Basilica Pilgrim Center"
+        },
+        {
+          "name": "Sinulog Launching Parade",
+          "time": "15:00",
+          "venue": "Venue to be announced"
+        },
+        {
+          "name": "Ceremonial Opening",
+          "time": "18:00",
+          "venue": "Cebu City Sports Center"
+        },
+        {
+          "name": "KZ & Company Concert",
+          "time": "19:00",
+          "venue": "Venue to be announced"
+        },
+        {
+          "name": "Opening Ceremony",
+          "time": "19:00",
+          "venue": "Fuente Osmeña"
+        },
+        {
+          "name": "Sinulog Idol",
+          "time": "19:30",
+          "venue": "Fuente Osmeña"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-10",
+      "dateRange": "2025-01-20",
+      "events": [
+        {
+          "name": "Sinulog Festival Nightly Shows",
+          "time": "18:00",
+          "venue": "SRP, Fuente Osmeña & Plaza Independencia"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-10",
+      "dateRange": "2025-01-21",
+      "events": [
+        {
+          "name": "OSANino at 40 Exhibit by Order of Saint Augustine",
+          "time": "Mall Hours",
+          "venue": "SM Seaside Cebu"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-10",
+      "dateRange": "2025-01-28",
+      "events": [
+        {
+          "name": "Sto. Nino Exhibit",
+          "time": "Mall Hours",
+          "venue": "The Gallery, Ayala Center Cebu"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-11",
+      "events": [
+        {
+          "name": "Cultural Show - DEPED Cebu Province",
+          "time": "18:00",
+          "venue": "Fuente Osmeña"
+        },
+        {
+          "name": "Cultural Show - University of Cebu Dance Troupe",
+          "time": "20:00",
+          "venue": "Plaza Independencia"
+        },
+        {
+          "name": "Sinulog Idol",
+          "time": "19:30",
+          "venue": "Fuente Osmeña"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-12",
+      "events": [
+        {
+          "name": "Cebu Marathon",
+          "time": "00:00",
+          "venue": "SM Seaside Cebu"
+        },
+        {
+          "name": "BRASS BAND PARADE with Majorettes",
+          "time": "13:30",
+          "venue": "Same route as Sinulog sa Lalawigan"
+        },
+        {
+          "name": "BRASS BAND COMPETITION",
+          "time": "14:30",
+          "venue": "Cebu City Sports Complex"
+        },
+        {
+          "name": "SINULOG SA DAKBAYAN",
+          "time": "14:30",
+          "venue": "Cebu City Sports Complex"
+        },
+        {
+          "name": "Cultural Show - MCSHS, MCSFA & UV",
+          "time": "18:00",
+          "venue": "Fuente Osmeña"
+        },
+        {
+          "name": "Cultural Show - TBA",
+          "time": "20:00",
+          "venue": "Plaza Independencia"
+        },
+        {
+          "name": "Sinulog Idol",
+          "time": "19:30",
+          "venue": "Fuente Osmeña"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-13",
+      "events": [
+        {
+          "name": "FESTIVAL QUEEN Run Way Competition",
+          "time": "16:00",
+          "venue": "SM City Cebu"
+        },
+        {
+          "name": "Cultural Show - Cebu Technological University",
+          "time": "18:00",
+          "venue": "Fuente Osmeña"
+        },
+        {
+          "name": "Cultural Show - CITU & USFP",
+          "time": "18:00",
+          "venue": "Plaza Independencia"
+        },
+        {
+          "name": "Sinulog Idol",
+          "time": "19:30",
+          "venue": "Fuente Osmeña"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-14",
+      "events": [
+        {
+          "name": "Cultural Show - PJ Academy",
+          "time": "18:00",
+          "venue": "Fuente Osmeña"
+        },
+        {
+          "name": "Cultural Show - Indiana Aerospace University",
+          "time": "20:00",
+          "venue": "Plaza Independencia"
+        },
+        {
+          "name": "Sinulog Idol",
+          "time": "19:30",
+          "venue": "Fuente Osmeña"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-15",
+      "events": [
+        {
+          "name": "MISS CEBU 2025",
+          "time": "18:00",
+          "venue": "Pacific Grand Ballroom, Waterfront Cebu City Hotel & Casino (by Invitation)"
+        },
+        {
+          "name": "Cultural Show - DEPED Cebu City Division",
+          "time": "18:00",
+          "venue": "Fuente Osmeña"
+        },
+        {
+          "name": "Sinulog Idol",
+          "time": "19:30",
+          "venue": "Fuente Osmeña"
+        },
+        {
+          "name": "Special Screening / Concert - CCDC",
+          "time": "20:00",
+          "venue": "Plaza Independencia"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-16",
+      "events": [
+        {
+          "name": "Balikbayan Welcome at the Airport",
+          "time": "09:00",
+          "venue": "MCIAA T1"
+        },
+        {
+          "name": "Balik Cebu Welcome Dinner & \"HANDUMANAN\"",
+          "time": "17:00",
+          "venue": "The Terraces, Ayala Center"
+        },
+        {
+          "name": "Cultural Show - USC & LLCIC",
+          "time": "18:00",
+          "venue": "Fuente Osmeña"
+        },
+        {
+          "name": "Cultural Show - University of San Jose Recoletos",
+          "time": "20:00",
+          "venue": "Plaza Independencia"
+        },
+        {
+          "name": "SINULOG IDOL GRAND FINALS",
+          "time": "19:30",
+          "venue": "Fuente Osmeña"
+        },
+        {
+          "name": "BIGWIN29 Foam Party Extravaganza",
+          "time": "21:00",
+          "venue": "Plaza Independencia"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-17",
+      "events": [
+        {
+          "name": "WALK WITH MARY",
+          "time": "04:00",
+          "venue": "Venue to be announced"
+        },
+        {
+          "name": "Translation Mass",
+          "time": "05:00",
+          "venue": "Cebu City"
+        },
+        {
+          "name": "Translation Mass",
+          "time": "06:30",
+          "venue": "Mandaue City"
+        },
+        {
+          "name": "Opening at Sinulog Devotees City",
+          "time": "10:00",
+          "venue": "Venue to be announced"
+        },
+        {
+          "name": "Mayors Night",
+          "time": "18:00",
+          "venue": "Nustar Convention Center (by Invitation)"
+        },
+        {
+          "name": "Cebu Pop Music Festival",
+          "time": "19:00",
+          "venue": "Venue to be announced (by Invitation)"
+        },
+        {
+          "name": "SINULOG OPEN STYLE BATTLE FINALS",
+          "time": "17:00",
+          "venue": "Cebu City Sports Center"
+        },
+        {
+          "name": "SINULOG DANCE CREW FINALS",
+          "time": "18:00",
+          "venue": "Cebu City Sports Center"
+        },
+        {
+          "name": "FESTIVAL QUEEN CORONATION NIGHT",
+          "time": "20:00",
+          "venue": "Cebu City Sports Center"
+        },
+        {
+          "name": "Coke Studio Event",
+          "time": "18:00",
+          "venue": "Plaza Independencia"
+        },
+        {
+          "name": "San Miguel Variety Show",
+          "time": "20:00",
+          "venue": "Fuente Osmeña"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-18",
+      "events": [
+        {
+          "name": "FLUVIAL PARADE",
+          "time": "04:00",
+          "venue": "Venue to be announced"
+        },
+        {
+          "name": "Balik Baroto Regatta",
+          "time": "07:00",
+          "venue": "SRP"
+        },
+        {
+          "name": "Re-enactment of historical events",
+          "time": "09:00",
+          "venue": "Basilica Minore del Sto. Niño"
+        },
+        {
+          "name": "Solemn Foot Procession of the Venerable Image of Sr. Sto Nino",
+          "time": "13:00",
+          "venue": "Venue to be announced"
+        },
+        {
+          "name": "DIY Influencers Event",
+          "time": "18:00",
+          "venue": "Fuente Osmeña"
+        },
+        {
+          "name": "Party at the Parks",
+          "time": "20:00",
+          "venue": ["Fuente Osmeña", "Plaza Independencia"]
+        },
+        {
+          "name": "WILL TO WIN BY SMART COMMUNICATION",
+          "time": "20:00",
+          "venue": "TBA"
+        },
+        {
+          "name": "Pocari Sweat DJ Performance Event",
+          "time": "21:00",
+          "venue": "Fuente Osmeña"
+        },
+        {
+          "name": "Bingo Plus Concert",
+          "time": "21:00",
+          "venue": "Plaza Independencia"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-19",
+      "events": [
+        {
+          "name": "Mananita Mass",
+          "time": "04:00",
+          "venue": "Basilica Minore del Sto. Niño"
+        },
+        {
+          "name": "Pontifical Mass by Archbishop Jose S. Palma",
+          "time": "06:00",
+          "venue": "Basilica Minore del Sto. Niño"
+        },
+        {
+          "name": "Sinulog Fiesta Day Holy Mass Celebration",
+          "time": "08:00",
+          "venue": "Cebu City Sports Center"
+        },
+        {
+          "name": "SINULOG 2025 GRAND PARADE",
+          "time": "09:00",
+          "venue": "Cebu City Sports Center"
+        },
+        {
+          "name": "SINULOG 2025 Grand Finale & Grand Fireworks",
+          "time": "19:00",
+          "venue": "Cebu City Sports Center"
+        },
+        {
+          "name": "Pyrospectacular Show/Pyro Musical",
+          "time": "21:00",
+          "venue": ["Ayala Center Cebu", "SM Seaside Cebu"]
+        },
+        {
+          "name": "Bingo Plus Concert",
+          "time": "21:00",
+          "venue": "Plaza Independencia"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-20",
+      "events": [
+        {
+          "name": "AWARDING CEREMONIES",
+          "time": "13:00",
+          "venue": "Cebu City Sports Center"
+        }
+      ]
+    },
+    {
+      "date": "2025-01-24",
+      "events": [
+        {
+          "name": "\"HUBO\"",
+          "time": "TBA",
+          "venue": "Cebu City Sports Center"
+        },
+        {
+          "name": "Video & Short Film Judging",
+          "time": "TBA",
+          "venue": "Cebu City Sports Center"
+        },
+        {
+          "name": "Photo Contest",
+          "time": "TBA",
+          "venue": "Cebu City Sports Center"
+        }
+      ]
+    },
+    {
+      "date": "2025-02",
+      "events": [
+        {
+          "name": "SINULOG EXHIBITION & RECAP",
+          "description": "Photo Contest Winners, Festival Queen Costume Winners Exhibition, Music Video, Short Film and Video Documentation",
+          "time": "TBA",
+          "venue": "TBA"
+        }
+      ]
+    }
+  ]
+}
