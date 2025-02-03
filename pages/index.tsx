@@ -49,7 +49,7 @@ interface Location {
 
 interface SelectedEvent extends Event {
   date: string;
-  location?: Location;
+  location?: Location | null | undefined;
 }
 
 interface VenueWithEvents extends Location {
@@ -130,7 +130,7 @@ export default function Home({ scheduleData }: HomeProps) {
   const [selectedEvent, setSelectedEvent] = useState<SelectedEvent | null>(
     null
   );
-  const [map, setMap] = useState(null);
+  const [map, setMap] = useState<google.maps.Map | null>(null);
   const [venues, setVenues] = useState<VenueWithEvents[]>([]);
 
   // Process venues and their events on component mount
