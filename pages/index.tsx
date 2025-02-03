@@ -1,7 +1,7 @@
 //import { Geist, Geist_Mono } from "next/font/google";
 import { GetStaticProps } from "next";
 import Head from "next/head";
-import { useState, useCallback, useRef, useEffect, useMemo } from "react";
+import { useState, useCallback, useEffect, useMemo } from "react";
 import {
   GoogleMap,
   LoadScript,
@@ -130,7 +130,7 @@ export default function Home({ scheduleData }: HomeProps) {
   const [selectedEvent, setSelectedEvent] = useState<SelectedEvent | null>(
     null
   );
-  const [map, setMap] = useState<google.maps.Map | null>(null);
+  const [map, setMap] = useState(null);
   const [venues, setVenues] = useState<VenueWithEvents[]>([]);
 
   // Process venues and their events on component mount
